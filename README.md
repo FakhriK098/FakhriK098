@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @FakhriK098
-- 👀 I’m interested in Android Development, Machine Learning, Data Science
-- 🌱 I’m currently learning Machine Learning, Data Science, Data Analysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m Mobile Developer
+- 🌱 I’m currently learning Mobile Development, UI/UX Design, and Machine Learning
 
 <!---
 FakhriK098/FakhriK098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
